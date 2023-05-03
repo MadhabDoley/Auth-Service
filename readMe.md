@@ -30,7 +30,7 @@ Description of your project.
 
 
 ## Directory Structure
-
+```
 ├── node_modules/
 ├── src/
 │   ├── controllers/
@@ -49,6 +49,8 @@ Description of your project.
 ├── .env
 ├── package.json
 └── README.md
+```
 
 ## Contact
 Your Name - email@example.com - GitHub
+
